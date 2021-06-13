@@ -376,7 +376,7 @@ footer .container .col-l form.form input {
     margin: 2em auto;
   }
   .wrap_button button {
-    padding: 10px 20px;
+    padding: 10px 20px !important;
     font-size: 18px;
   }
 
